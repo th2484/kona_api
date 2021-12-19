@@ -1,0 +1,12 @@
+asgiref==3.2.3
+certifi==2019.11.28
+chardet==3.0.4
+Django==3.2
+djangorestframework
+django-cors-headers
+idna==2.8
+jsonpickle==1.2
+pytz==2019.3
+requests
+sqlparse==0.3.0
+urllib3==1.25.8
